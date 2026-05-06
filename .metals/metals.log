@@ -1,0 +1,44 @@
+2026.05.04 11:10:48 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.04 11:10:49 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:10:56 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:11:41 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:11:41 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:11:46 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:11:46 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:11:46 WARN  no build target for: C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala
+2026.05.04 11:11:56 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:11:56 WARN  no build target for: C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala
+2026.05.04 11:11:56 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:11:56 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+May 04, 2026 11:12:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.04 11:12:06 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:12:22 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:12:22 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.04 11:12:22 WARN  no build target for: C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\build.sbt
+2026.05.04 11:13:38 INFO  Shutting down server
+2026.05.04 11:13:38 INFO  Memory monitor stopped
+2026.05.04 11:13:38 INFO  shutting down Metals
+2026.05.05 23:13:03 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\kunal\Downloads\DSBDAL_Kunal' for client Visual Studio Code 1.118.1.
+2026.05.05 23:13:03 INFO  Memory monitor started
+2026.05.05 23:13:05 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.05 23:13:06 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:09 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:11 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 23:13:11 INFO  no build target found for C:\Users\kunal\Downloads\DSBDAL_Kunal\prac13\prac13.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.06 01:06:24 INFO  Shutting down server
+2026.05.06 01:06:24 INFO  Memory monitor stopped
+2026.05.06 01:06:24 INFO  shutting down Metals

@@ -1,12 +1,25 @@
 import org.apache.spark.sql.SparkSession
+import org.apache.spark.sql.functions._
 
 object Simple extends App {
   val spark = SparkSession.builder().master("local").getOrCreate()
 
-  // Create a 1-column table and count the rows
-  val count = spark.range(1, 101).count()
+  import spark.implicits._
 
-  println(s"Spark counted to: $count")
+  val lines = Seq(
+    "hello spark",
+    "hello scala",
+    "spark with scala spark"
+  )
+
+  val wordCounts = lines
+    .toDF("line")
+    .select(explode(split(lower(col("line")), "\\s+")).as("word"))
+    .groupBy("word")
+    .count()
+    .orderBy(desc("count"), asc("word"))
+
+  wordCounts.show(false)
 
   spark.stop()
 }
